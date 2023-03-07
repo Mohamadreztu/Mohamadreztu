@@ -4,8 +4,6 @@
  I am a Student Data Scientist focused on Problem Solving, Operations Research, Deep Analytics, Machine Learning and Deep Learning. I am capable of Python, SQL BigQuery, Tableau, and also understand Google Script. I have experience operating Google Cloud Platform, doing projects on statistics, data analysis, text mining, forecasting, digital marketing, machine learning and predictive analytics. I also have a lot of experience in mentoring. Has logical thinking, such as problem solving, does project management and is very curious.
 </p>
 
-<img align='right' src = "https://github.com/Mohamadreztu/github-stats-transparent/blob/output/generated/languages.svg">
-
 ## 🔍 You Can Find Me at
 
 <p>
